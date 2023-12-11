@@ -1,7 +1,7 @@
 git init
-git remote add origin https://github.com/calmez0609/PickUpSystem.git
+git remote add origin 
 git add .
-git commit -m "Initial commit"
-git config --global user.email calmez0609@gmail
+git commit -m "Secondary commit"
+
 git push -u origin master
 pause
